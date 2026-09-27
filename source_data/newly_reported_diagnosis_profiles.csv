@@ -1,0 +1,18 @@
+interval,followup_profile,n,weighted_percent
+2011-2013,Combined TCM and Western,39,9.202519
+2011-2013,None listed,115,36.56464
+2011-2013,Other only,6,1.3552315
+2011-2013,TCM without Western,29,8.818562
+2011-2013,Western without TCM,155,44.059048
+2013-2015,Combined TCM and Western,64,5.052968
+2013-2015,None listed,196,17.825293
+2013-2015,Other only,5,0.47005278
+2013-2015,TCM without Western,35,3.2388577
+2013-2015,Western without TCM,216,18.493082
+2013-2015,Missing/ineligible,648,54.919754
+2015-2018,Combined TCM and Western,82,8.4602995
+2015-2018,None listed,225,25.927572
+2015-2018,Other only,16,2.432385
+2015-2018,TCM without Western,65,7.526023
+2015-2018,Western without TCM,306,32.78085
+2015-2018,Missing/ineligible,222,22.872875

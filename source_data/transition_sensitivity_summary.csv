@@ -1,0 +1,19 @@
+analysis,interval,baseline_state,n,weighted_event_percent
+Main,2011-2013,Any listed treatment,1440,30.4782848719518
+Main,2011-2013,None listed,674,45.9484120959109
+Main,2013-2015,Any listed treatment,1698,26.062611480835518
+Main,2013-2015,None listed,1010,47.859683324324465
+Main,2015-2018,Any listed treatment,2245,29.37843550427669
+Main,2015-2018,None listed,1209,46.73271387206945
+Both dispute flags zero,2011-2013,Any listed treatment,1440,30.4782848719518
+Both dispute flags zero,2011-2013,None listed,672,46.15935573499307
+Both dispute flags zero,2013-2015,Any listed treatment,1415,25.412558720035538
+Both dispute flags zero,2013-2015,None listed,825,49.74100314378712
+Both dispute flags zero,2015-2018,Any listed treatment,2002,29.173261788109663
+Both dispute flags zero,2015-2018,None listed,1094,46.7320938891482
+Observation IPW,2011-2013,Any listed treatment,1427,30.684888995870185
+Observation IPW,2011-2013,None listed,667,44.523324722377374
+Observation IPW,2013-2015,Any listed treatment,1672,26.05483413924751
+Observation IPW,2013-2015,None listed,998,49.131887133339184
+Observation IPW,2015-2018,Any listed treatment,2070,28.993023544125755
+Observation IPW,2015-2018,None listed,1140,46.9053464213467

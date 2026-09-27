@@ -1,0 +1,6 @@
+"joint_group_base","n","missing_age_base","missing_female_base","missing_education_base","missing_partnered_base","missing_public_insurance_base","missing_adl_difficulty_base","missing_comorbidity_count_base","missing_communityID_base"
+"Urban hukou/urban residence",1171,0,0,0,0,25,2,18,0
+"Rural hukou/urban residence",1491,0,0,0,0,23,4,11,0
+"Urban hukou/rural residence",226,0,0,0,0,2,0,1,0
+"Rural hukou/rural residence",5176,0,0,0,0,46,10,45,0
+NA,212,0,0,0,0,1,0,2,0

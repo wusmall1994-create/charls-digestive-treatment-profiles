@@ -1,0 +1,9 @@
+"outcome","joint_group","unweighted_n","events","weighted_probability","ci_l","ci_u"
+"None-listed to listed","Urban hukou/urban residence",487,210,0.399688455224722,0.309851312025802,0.489525598423642
+"None-listed to listed","Rural hukou/urban residence",527,262,0.503482780992949,0.448133252345981,0.558832309639916
+"None-listed to listed","Urban hukou/rural residence",85,35,0.380146622019634,0.271536571037332,0.488756673001937
+"None-listed to listed","Rural hukou/rural residence",1729,869,0.507711457311293,0.481339630858032,0.534083283764553
+"Listed to none-listed","Urban hukou/urban residence",684,237,0.366679079212562,0.312553954411835,0.420804204013289
+"Listed to none-listed","Rural hukou/urban residence",964,250,0.280416244806609,0.237634774955145,0.323197714658074
+"Listed to none-listed","Urban hukou/rural residence",141,35,0.275663816301848,0.180552643966551,0.370774988637146
+"Listed to none-listed","Rural hukou/rural residence",3447,886,0.260682665639591,0.243748944883673,0.277616386395509

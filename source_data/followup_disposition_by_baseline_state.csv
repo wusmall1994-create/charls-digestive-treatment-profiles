@@ -1,0 +1,29 @@
+interval,baseline_state,followup_disposition,n,weighted_percent
+2011-2013,Any listed treatment,Alive nonresponse,117,7.0410676
+2011-2013,Any listed treatment,Known death,51,3.3318334
+2011-2013,Any listed treatment,Observed eligible profile,1440,73.749016
+2011-2013,Any listed treatment,"Responded, no eligible profile",145,7.3391943
+2011-2013,Any listed treatment,Vital status unknown,80,8.538893
+2011-2013,None listed,Alive nonresponse,69,8.313722
+2011-2013,None listed,Known death,28,2.580016
+2011-2013,None listed,Observed eligible profile,674,69.10183
+2011-2013,None listed,"Responded, no eligible profile",133,12.798616
+2011-2013,None listed,Vital status unknown,50,7.205818
+2013-2015,Any listed treatment,Alive nonresponse,89,4.410248
+2013-2015,Any listed treatment,Known death,77,4.029145
+2013-2015,Any listed treatment,Observed eligible profile,1698,75.80773
+2013-2015,Any listed treatment,"Responded, no eligible profile",189,8.610676
+2013-2015,Any listed treatment,Vital status unknown,110,7.1422167
+2013-2015,None listed,Alive nonresponse,51,3.82526
+2013-2015,None listed,Known death,35,2.4175675
+2013-2015,None listed,Observed eligible profile,1010,80.64135
+2013-2015,None listed,"Responded, no eligible profile",111,7.915029
+2013-2015,None listed,Vital status unknown,61,5.200801
+2015-2018,Any listed treatment,Known death,122,4.9879904
+2015-2018,Any listed treatment,Observed eligible profile,2245,84.33677
+2015-2018,Any listed treatment,"Responded, no eligible profile",18,0.6047974
+2015-2018,Any listed treatment,Vital status unknown,204,10.07044
+2015-2018,None listed,Known death,48,3.2253578
+2015-2018,None listed,Observed eligible profile,1209,81.269585
+2015-2018,None listed,"Responded, no eligible profile",28,1.9565861
+2015-2018,None listed,Vital status unknown,138,13.548471

@@ -1,0 +1,45 @@
+{
+  "wave_counts": [
+    {
+      "wave": 2011,
+      "eligible_n": 2787,
+      "disease_positive_n": 3613
+    },
+    {
+      "wave": 2013,
+      "eligible_n": 3431,
+      "disease_positive_n": 4133
+    },
+    {
+      "wave": 2015,
+      "eligible_n": 4012,
+      "disease_positive_n": 5348
+    },
+    {
+      "wave": 2018,
+      "eligible_n": 5184,
+      "disease_positive_n": 5858
+    }
+  ],
+  "interval_baseline_n": {
+    "2011-2013": 2787,
+    "2013-2015": 3431,
+    "2015-2018": 4012
+  },
+  "observed_transition_n": {
+    "2011-2013": 2114,
+    "2013-2015": 2708,
+    "2015-2018": 3454
+  },
+  "known_deaths": {
+    "2011-2013": 79,
+    "2013-2015": 112,
+    "2015-2018": 170
+  },
+  "eligible_outcome_a_n": 2893,
+  "eligible_outcome_b_n": 5383,
+  "complete_case_model_a_n": 2782,
+  "complete_case_model_a_events": 1355,
+  "complete_case_model_b_n": 5105,
+  "complete_case_model_b_events": 1372
+}

@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Please cite this archived analysis package."
+title: "CHARLS Questionnaire Treatment-State Transitions"
+type: software
+authors:
+  - family-names: Liang
+    given-names: Huadong
+  - family-names: Wu
+    given-names: Xiaoxin
+  - family-names: Zheng
+    given-names: Fengxiang
+  - family-names: Huang
+    given-names: Shumin
+year: 2026
+version: "1.0.0"
+doi: 10.5281/zenodo.21966963
+license: MIT
+repository-code: "https://github.com/wusmall1994-create/charls-digestive-treatment-profiles"

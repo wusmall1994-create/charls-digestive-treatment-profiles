@@ -1,0 +1,13 @@
+data/
+*.dta
+*.sav
+*.sas7bdat
+*.rds
+*.RData
+*.docx
+*.pdf
+__pycache__/
+.Rhistory
+.Rproj.user/
+*.tmp
+~$*
